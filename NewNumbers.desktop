@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NewNumbers
+Comment=
+Exec=/home/software/NewNumbers/NewNumbers
+Icon=applications-games
+Path=
+Terminal=false
+StartupNotify=false
